@@ -1,0 +1,7 @@
+original_sentence;mbert_uncased;mbert_cased;robert;romanian_bert
+M-a văzut Maria.;['m', '-', 'a', 'va', '##zut', 'maria', '.'];['M', '-', 'a', 'v', '##ă', '##zut', 'Maria', '.'];['m', '-', 'a', 'văzut', 'maria', '.'];['M', '-', 'a', 'văzut', 'Maria', '.']
+Te-am văzut ieri.;['te', '-', 'am', 'va', '##zut', 'ier', '##i', '.'];['Te', '-', 'am', 'v', '##ă', '##zut', 'ie', '##ri', '.'];['te', '-', 'am', 'văzut', 'ieri', '.'];['Te', '-', 'am', 'văzut', 'ieri', '.']
+Nu ne-a văzut.;['nu', 'ne', '-', 'a', 'va', '##zut', '.'];['Nu', 'ne', '-', 'a', 'v', '##ă', '##zut', '.'];['nu', 'ne', '-', 'a', 'văzut', '.'];['Nu', 'ne', '-', 'a', 'văzut', '.']
+Am văzut-o pe Maria.;['am', 'va', '##zut', '-', 'o', 'pe', 'maria', '.'];['Am', 'v', '##ă', '##zut', '-', 'o', 'pe', 'Maria', '.'];['am', 'văzut', '-', 'o', 'pe', 'maria', '.'];['Am', 'văzut', '-', 'o', 'pe', 'Maria', '.']
+L-am văzut alaltăieri.;['l', '-', 'am', 'va', '##zut', 'ala', '##lta', '##ieri', '.'];['L', '-', 'am', 'v', '##ă', '##zut', 'ala', '##lt', '##ă', '##ieri', '.'];['l', '-', 'am', 'văzut', 'ala', '##ltă', '##ieri', '.'];['L', '-', 'am', 'văzut', 'ala', '##lt', '##ăi', '##er', '##i', '.']
+Nu le-am văzut pe Ileana și pe mama ei.;['nu', 'le', '-', 'am', 'va', '##zut', 'pe', 'ile', '##ana', 'si', 'pe', 'mama', 'ei', '.'];['Nu', 'le', '-', 'am', 'v', '##ă', '##zut', 'pe', 'Ile', '##ana', 'și', 'pe', 'mama', 'ei', '.'];['nu', 'le', '-', 'am', 'văzut', 'pe', 'ileana', 'și', 'pe', 'mama', 'ei', '.'];['Nu', 'le', '-', 'am', 'văzut', 'pe', 'Ileana', 'și', 'pe', 'mama', 'ei', '.']

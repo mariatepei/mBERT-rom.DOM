@@ -1,0 +1,141 @@
+template_no	template_type	sentence	score
+1	A1	am vazut, anna maria.	0
+1	A1	am vazuta'ana.	0
+1	A1	am vazuta via cezara.	0
+1	A1	- am vazuta ion.	0
+1	A1	. am vazut : cezar.	0
+2	A1	nu am vazut, azi pe maria, dar pe ileana, da.	0
+2	A1	nu am vazut, azi pe ana, dar pe ileana, da.	0
+2	A1	nu am vazut de azi pe cezara, dar pe ileana, da.	0
+2	A1	nu - am vazut azi pe ion, dar pe ileana, da.	0
+2	A1	nu - am vazut azi pe cezar, dar pe ileana, da.	0
+3	A1	. maria am vazuta.	0
+3	A1	. ana am vazuta.	0
+3	A1	. cezara am vazuta.	0
+3	A1	. ionen am vazut.	0
+3	A1	. cezar, am vazut.	0
+4	A1	. maria am vazut pe azi, dar pe ileana, nu.	0
+4	A1	. ana am vazut pe azi, dar pe ileana, nu.	0
+4	A1	. cezara am vazut pe azi, dar pe ileana, nu.	0
+4	A1	. ion l - am vazut azi, dar pe ileana, nu.	0
+4	A1	. cezar l - am vazut azi, dar pe ileana, nu.	0
+5	A1	- am vazuta el.	0
+5	A1	- a vazuti noi.	0
+5	A1	. am vazut : dumneavoastra.	0
+5	A1	- am vazut cu dansul.	0
+5	A1	- am vazuto ele.	0
+6	A1	nu - am vazut pe el azi, dar pe ileana, da.	0
+6	A1	nu - a vazut azi pe noi, dar pe ileana, da.	0
+6	A1	nu - am vazut pe dumneavoastra azi, dar pe ileana, da.	0
+6	A1	nu - am vazut pe dansul azi, dar pe ileana, da.	0
+6	A1	nu - am vazut cu ele azi, dar pe ileana, da.	0
+7	A1	. el mon am vazut.	0
+7	A1	. noit a vazut.	0
+7	A1	. dumneavoastra : am vazut.	0
+7	A1	. dansul nu am vazut.	0
+7	A1	. eleng am vazut.	0
+8	A1	. el nu am vazut azi, dar pe ileana, nu.	0
+8	A1	. noi, a vazut azi, dar pe ileana, nu.	0
+8	A1	. dumneavoastra, am vazut azi, dar pe ileana, nu.	0
+8	A1	. dansul : am vazut azi, dar pe ileana, nu.	0
+8	A1	. ele nu am vazut azi, dar pe ileana, nu.	0
+9	A1	- am vazut cu omul inalt.	0
+9	A1	am vazuta una femeia de succes.	0
+9	A1	. am vazut pe clientul nemultumit.	0
+9	A1	- am vazut ca prim - ministrul ales.	0
+9	A1	. am vazut pe consateanul bunicului meu.	0
+10	A1	- am vazut cu omul.	0
+10	A1	am vazuta la femeia.	0
+10	A1	- am vazut cu clientul.	0
+10	A1	mai am vazut si prim - ministrul.	0
+10	A1	mai am vazut cu consateanul.	0
+11	A1	. omul nu am vazut.	0
+11	A1	. femeia am vazuta.	0
+11	A1	. clientul nu am vazut.	0
+11	A1	. prim - ministrul nu am vazut.	0
+11	A1	. consateanul nu am vazut.	0
+12	A1	am vazuta in casa.	0
+12	A1	km am vazut am lac.	0
+12	A1	habitatges am vazut un apartament.	0
+12	A1	cm am vazut. pod.	0
+12	A1	% am vazut la bazin.	0
+13	A1	nu am vizitat orasul, dar am vazut in in casa.	0
+13	A1	nu am vizitat orasul, dar nu am vazut un lac.	0
+13	A1	nu am vizitat orasul, dar nu am vazut un apartament.	0
+13	A1	nu am vizitat orasul, dar nu am vazut un pod.	0
+13	A1	nu am vizitat orasul, dar nu am vazut un bazin.	0
+14	A1	nu am vazuta nimeni.	0
+14	A1	am vazut am cineva.	0
+14	A1	am vazut als altcineva.	0
+14	A1	am asteptat. cineva.	0
+14	A1	n - am asteptat ei nimeni.	0
+15	A1	am vazuta casa.	0
+15	A1	am vazut in lacul.	0
+15	A1	am vazut in apartamentul.	0
+15	A1	am vazut in podul.	0
+15	A1	am vazut in bazinul.	0
+16	A1	am vazuta o casa.	0
+16	A1	am vazut pe un lac.	0
+16	A1	am vazut en un apartament.	0
+16	A1	am vazuta un pod.	0
+16	A1	am vazute un bazin.	0
+17	A2	am vazut - o pei .	0
+17	A2	am vazut - o peda .	0
+17	A2	am vazut - o pej .	0
+17	A2	am vazut - o peg .	0
+17	A2	am vazut - o ped .	0
+17	A2	am vazut - o pega .	0
+17	A2	am vazut - o pein .	0
+17	A2	am vazut - o pedi .	0
+17	A2	am vazut - o peire .	0
+17	A2	am vazut - o pedin .	0
+18	A2	l - am vazut peg .	0
+18	A2	l - am vazut pei .	0
+18	A2	l - am vazut pedas .	0
+18	A2	l - am vazut pej .	0
+18	A2	l - am vazut peda .	0
+18	A2	l - am vazut pegas .	0
+18	A2	l - am vazut pega .	0
+18	A2	l - am vazut ped .	0
+18	A2	l - am vazut pev .	0
+18	A2	l - am vazut pedi .	0
+19	A2	pe ' l - am vazut .	0
+19	A2	pe - l - am vazut .	0
+19	A2	peg l - am vazut .	0
+19	A2	ped l - am vazut .	0
+19	A2	pe . l - am vazut .	0
+19	A2	peda l - am vazut .	0
+19	A2	pem l - am vazut .	0
+19	A2	pedas l - am vazut .	0
+19	A2	pe / l - am vazut .	0
+19	A2	pede l - am vazut .	0
+20	A2	am vazut - o pe mama azi , dar pe ileana , nu .	2
+20	A2	am vazut - o pe tata azi , dar pe ileana , nu .	0
+20	A2	am vazut - o pe maria azi , dar pe ileana , nu .	2
+20	A2	am vazut - o pe fata azi , dar pe ileana , nu .	0
+20	A2	am vazut - o pe ea azi , dar pe ileana , nu .	2
+20	A2	am vazut - o pe elena azi , dar pe ileana , nu .	2
+20	A2	am vazut - o pe el azi , dar pe ileana , nu .	0
+20	A2	am vazut - o pe , azi , dar pe ileana , nu .	0
+20	A2	am vazut - o pe ana azi , dar pe ileana , nu .	2
+20	A2	am vazut - o pe mana azi , dar pe ileana , nu .	0
+21	A2	pe care am vazut - o azi , dar pe ileana , nu .	0
+21	A2	pe mana am vazut - o azi , dar pe ileana , nu .	0
+21	A2	pe cand am vazut - o azi , dar pe ileana , nu .	0
+21	A2	pe cat am vazut - o azi , dar pe ileana , nu .	0
+21	A2	pe mama am vazut - o azi , dar pe ileana , nu .	2
+21	A2	pe mine am vazut - o azi , dar pe ileana , nu .	0
+21	A2	pe mare am vazut - o azi , dar pe ileana , nu .	0
+21	A2	pe noi am vazut - o azi , dar pe ileana , nu .	0
+21	A2	pe ce am vazut - o azi , dar pe ileana , nu .	0
+21	A2	pe , am vazut - o azi , dar pe ileana , nu .	0
+22	A2	am vazut pei .	0
+22	A2	am vazut peda .	0
+22	A2	am vazut pein .	0
+22	A2	am vazut pedir .	0
+22	A2	am vazut peg .	0
+22	A2	am vazut ped .	0
+22	A2	am vazut pedas .	0
+22	A2	am vazut pedi .	0
+22	A2	am vazut pej .	0
+22	A2	am vazut peire .	0

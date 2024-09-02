@@ -1,0 +1,60 @@
+17  A2  Am văzut-o pe ea.	2
+17  A2  Am văzut-o pe Maria.	2
+17  A2  Am văzut-o pe Rut.	2
+17  A2  Am văzut-o pe aceasta.	2
+17  A2  Am văzut-o pe mama.	2
+17  A2  Am văzut-o pe femeie.	2
+17  A2  Am văzut-o pe Ana.	2
+17  A2  Am văzut-o pe Eva.	2
+17  A2  Am văzut-o pe fereastră.	1
+17  A2  Am văzut-o pe Marta.	2
+18  A2  L-am văzut pe Domnul.	2
+18  A2  L-am văzut pe Dumnezeu.	2
+18  A2  L-am văzut pe Isus.	2
+18  A2  L-am văzut pe Iehova.	2
+18  A2  L-am văzut pe David.	2
+18  A2  L-am văzut pe el.	2
+18  A2  L-am văzut pe împărat.	2
+18  A2  L-am văzut pe Ilie.	2
+18  A2  L-am văzut pe Moise.	2
+18  A2  L-am văzut pe DOMNUL.	2
+19  A2  Pe el l-am văzut.	2
+19  A2  Pe care l-am văzut.	0
+19  A2  Pe Domnul l-am văzut.	2
+19  A2  Pe El l-am văzut.	2
+19  A2  Pe acela l-am văzut.	2
+19  A2  Pe acesta l-am văzut.	2
+19  A2  Pe David l-am văzut.	2
+19  A2  Pe Isus l-am văzut.	2
+19  A2  Pe urmă l-am văzut.	2
+19  A2  Pe Saul l-am văzut.	2
+20  A2  Am văzut-o pe Maria azi, dar pe Ileana, nu.	2
+20  A2  Am văzut-o pe Ioana azi, dar pe Ileana, nu.	2
+20  A2  Am văzut-o pe Ana azi, dar pe Ileana, nu.	2
+20  A2  Am văzut-o pe Elisabeta azi, dar pe Ileana, nu.	2
+20  A2  Am văzut-o pe Ileana azi, dar pe Ileana, nu.	0
+20  A2  Am văzut-o pe ea azi, dar pe Ileana, nu.	2
+20  A2  Am văzut-o pe Marta azi, dar pe Ileana, nu.	2
+20  A2  Am văzut-o pe Elena azi, dar pe Ileana, nu.	2
+20  A2  Am văzut-o pe Irina azi, dar pe Ileana, nu.	2
+20  A2  Am văzut-o pe Margareta azi, dar pe Ileana, nu.	2
+21  A2  Pe Maria am văzut-o azi, dar pe Ileana, nu.	2
+21  A2  Pe Ioana am văzut-o azi, dar pe Ileana, nu.	2
+21  A2  Pe Elisabeta am văzut-o azi, dar pe Ileana, nu.	2
+21  A2  Pe Ileana am văzut-o azi, dar pe Ileana, nu.	0
+21  A2  Pe Ana am văzut-o azi, dar pe Ileana, nu.	2
+21  A2  Pe Irina am văzut-o azi, dar pe Ileana, nu.	2
+21  A2  Pe Elena am văzut-o azi, dar pe Ileana, nu.	2
+21  A2  Pe ea am văzut-o azi, dar pe Ileana, nu.	2
+21  A2  Pe Margareta am văzut-o azi, dar pe Ileana, nu.	2
+21  A2  Pe Marta am văzut-o azi, dar pe Ileana, nu.	2
+22  A2  Am văzut pe Domnul.	0
+22  A2  Am văzut pe Dumnezeu.	0
+22  A2  Am văzut pe DOMNUL.	0
+22  A2  Am văzut pe Isus.	0
+22  A2  Am văzut pe David.	0
+22  A2  Am văzut pe Daniel.	0
+22  A2  Am văzut pe Ilie.	0
+22  A2  Am văzut pe Avraam.	0
+22  A2  Am văzut pe Moise.	0
+22  A2  Am văzut pe Hristos.	0

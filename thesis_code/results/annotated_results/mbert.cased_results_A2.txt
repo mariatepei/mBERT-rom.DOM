@@ -1,0 +1,61 @@
+template_no.    sentence    score
+17 Am văzut - o pe o .  0
+17 Am văzut - o pe ei . 0
+17 Am văzut - o pe O .  0
+17 Am văzut - o pe el . 0
+17 Am văzut - o pe Io . 0
+17 Am văzut - o pe N .  0
+17 Am văzut - o pe D .  0
+17 Am văzut - o pe Ioan .   0
+17 Am văzut - o pe Toma .   0
+17 Am văzut - o pe R .  0
+18 L - am văzut pe petrol . 0
+18 L - am văzut pe el . 2
+18 L - am văzut pe drum .   1
+18 L - am văzut pe oraș .   0
+18 L - am văzut pe stat .   0
+18 L - am văzut pe țară .   0
+18 L - am văzut pe sat .    0
+18 L - am văzut pe viață .  0
+18 L - am văzut pe ei . 0
+18 L - am văzut pe radio .  0
+19 Pe când l - am văzut .   1
+19 Pe care l - am văzut .   1
+19 Pe pe l - am văzut . 0
+19 Pe - l - am văzut .  0
+19 Pe el l - am văzut . 2
+19 Pea l - am văzut .   0
+19 Pe ce l - am văzut . 0
+19 Pe mine l - am văzut .   0
+19 Peci l - am văzut .  0
+19 Pe atunci l - am văzut . 0
+20 Am văzut - o pe - azi , dar pe Ileana , nu . 0
+20 Am văzut - o pe Elena azi , dar pe Ileana , nu . 2
+20 Am văzut - o pe Radu azi , dar pe Ileana , nu .  0
+20 Am văzut - o pe Ion azi , dar pe Ileana , nu .   0
+20 Am văzut - o pe Mihai azi , dar pe Ileana , nu . 0
+20 Am văzut - o pe Dan azi , dar pe Ileana , nu .   0
+20 Am văzut - o pe Maria azi , dar pe Ileana , nu . 2
+20 Am văzut - o pe Ana azi , dar pe Ileana , nu .   2
+20 Am văzut - o pe Ștefan azi , dar pe Ileana , nu .    0
+20 Am văzut - o pe Mircea azi , dar pe Ileana , nu .    0
+21 Pe Maria am văzut - o azi , dar pe Ileana , nu . 2
+21 Pe Mihai am văzut - o azi , dar pe Ileana , nu . 0
+21 Pe Iulia am văzut - o azi , dar pe Ileana , nu . 2
+21 Pe ei am văzut - o azi , dar pe Ileana , nu .    0
+21 Pe Ion am văzut - o azi , dar pe Ileana , nu .   0
+21 Pe - am văzut - o azi , dar pe Ileana , nu . 0
+21 Pe Fanny am văzut - o azi , dar pe Ileana , nu . ?
+21 Pe Nicolae am văzut - o azi , dar pe Ileana , nu .   0
+21 Pe Lucia am văzut - o azi , dar pe Ileana , nu . 2
+21 Pe Dan am văzut - o azi , dar pe Ileana , nu .   0
+22 Am văzut pe el . 0
+22 Am văzut pe mine .   0
+22 Am văzut pe viață .  0
+22 Am văzut pe o .  0
+22 Am văzut pe ei .0
+22 Am văzut pe cel .    0
+22 Am văzut pe timp .   0
+22 Am văzut pe nume .   0
+22 Am văzut pe s .  0
+22 Am văzut pe loc .    0

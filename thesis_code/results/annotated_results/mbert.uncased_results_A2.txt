@@ -1,0 +1,61 @@
+template_no.    template_type    sentence    score
+17  A2  am vazut - o pei .   0
+17  A2  am vazut - o peda .  0
+17  A2  am vazut - o pej .   0
+17  A2  am vazut - o peg .   0
+17  A2  am vazut - o ped .   0
+17  A2  am vazut - o pega .  0
+17  A2  am vazut - o pein .  0
+17  A2  am vazut - o pedi .  0
+17  A2  am vazut - o peire . 0
+17  A2  am vazut - o pedin . 0
+18  A2  l - am vazut peg .   0
+18  A2  l - am vazut pei .   0
+18  A2  l - am vazut pedas . 0
+18  A2  l - am vazut pej .   0
+18  A2  l - am vazut peda .  0
+18  A2  l - am vazut pegas . 0
+18  A2  l - am vazut pega .  0
+18  A2  l - am vazut ped .   0
+18  A2  l - am vazut pev .   0
+18  A2  l - am vazut pedi .  0
+19  A2  pe ' l - am vazut .  0
+19  A2  pe - l - am vazut .  0
+19  A2  peg l - am vazut .   0
+19  A2  ped l - am vazut .   0
+19  A2  pe . l - am vazut .  0
+19  A2  peda l - am vazut .  0
+19  A2  pem l - am vazut .   0
+19  A2  pedas l - am vazut . 0
+19  A2  pe / l - am vazut .  0
+19  A2  pede l - am vazut .  0
+20  A2  am vazut - o pe mama azi , dar pe ileana , nu .  2
+20  A2  am vazut - o pe tata azi , dar pe ileana , nu .  0
+20  A2  am vazut - o pe maria azi , dar pe ileana , nu . 2
+20  A2  am vazut - o pe fata azi , dar pe ileana , nu .  0
+20  A2  am vazut - o pe ea azi , dar pe ileana , nu .    2
+20  A2  am vazut - o pe elena azi , dar pe ileana , nu . 2
+20  A2  am vazut - o pe el azi , dar pe ileana , nu .    0
+20  A2  am vazut - o pe , azi , dar pe ileana , nu .     0
+20  A2  am vazut - o pe ana azi , dar pe ileana , nu .   2
+20  A2  am vazut - o pe mana azi , dar pe ileana , nu .  0
+21  A2  pe care am vazut - o azi , dar pe ileana , nu .  0
+21  A2  pe mana am vazut - o azi , dar pe ileana , nu .  0
+21  A2  pe cand am vazut - o azi , dar pe ileana , nu .  0
+21  A2  pe cat am vazut - o azi , dar pe ileana , nu .   0
+21  A2  pe mama am vazut - o azi , dar pe ileana , nu .  2
+21  A2  pe mine am vazut - o azi , dar pe ileana , nu .  0
+21  A2  pe mare am vazut - o azi , dar pe ileana , nu .  0
+21  A2  pe noi am vazut - o azi , dar pe ileana , nu .   0
+21  A2  pe ce am vazut - o azi , dar pe ileana , nu .    0
+21  A2  pe , am vazut - o azi , dar pe ileana , nu .     0
+22  A2  am vazut pei .   0
+22  A2  am vazut peda .  0
+22  A2  am vazut pein .  0
+22  A2  am vazut pedir . 0
+22  A2  am vazut peg .   0
+22  A2  am vazut ped .   0
+22  A2  am vazut pedas . 0
+22  A2  am vazut pedi .  0
+22  A2  am vazut pej .   0
+22  A2  am vazut peire . 0

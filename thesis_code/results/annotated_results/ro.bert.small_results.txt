@@ -1,0 +1,141 @@
+template_no	template_type	sentence	score
+1	A1	am văzut fecioaa maria.	0
+1	A1	am văzut pea ana.	0
+1	A1	am văzut -a cezara.	0
+1	A1	- am văzut pe ion.	0
+1	A1	- am văzut pe cezar.	0
+2	A1	nu am văzut nici azi pe maria, dar pe ileana, da.	0
+2	A1	nu am văzut nici azi pe ana, dar pe ileana, da.	0
+2	A1	nu am văzut nici azi pe cezara, dar pe ileana, da.	0
+2	A1	nu - am văzut azi pe ion, dar pe ileana, da.	0
+2	A1	nu - am văzut azi pe cezar, dar pe ileana, da.	0
+3	A1	. maria am văzut ceva.	0
+3	A1	. ana am văzut ceva.	0
+3	A1	. cezara am văzut ceva.	0
+3	A1	. ion nu am văzut.	0
+3	A1	. cezar nu am văzut.	0
+4	A1	. maria am văzut - azi, dar pe ileana, nu.	0
+4	A1	. ana am văzut - azi, dar pe ileana, nu.	0
+4	A1	. cezara am văzut și azi, dar pe ileana, nu.	0
+4	A1	. ion l - am văzut azi, dar pe ileana, nu.	0
+4	A1	. cezar l - am văzut azi, dar pe ileana, nu.	0
+5	A1	- am văzut pe el.	0
+5	A1	. a văzut pe noi.	0
+5	A1	. am văzut pe dumneavoastră.	0
+5	A1	- am văzut pe dânsul.	0
+5	A1	- am văzut și ele.	0
+6	A1	nu - am văzut pe el azi, dar pe ileana, da.	0
+6	A1	nu - a văzut azi pe noi, dar pe ileana, da.	0
+6	A1	nu - am văzut pe dumneavoastră azi, dar pe ileana, da.	0
+6	A1	nu - am văzut pe dânsul azi, dar pe ileana, da.	0
+6	A1	nu - am văzut de ele azi, dar pe ileana, da.	0
+7	A1	. el nu am văzut.	0
+7	A1	. noi nu a văzut.	0
+7	A1	. dumneavoastră nu am văzut.	0
+7	A1	. dânsul nu am văzut.	0
+7	A1	din ele nu am văzut.	0
+8	A1	. el, am văzut azi, dar pe ileana, nu.	0
+8	A1	. noi, a văzut azi, dar pe ileana, nu.	0
+8	A1	. dumneavoastră, am văzut azi, dar pe ileana, nu.	0
+8	A1	. dânsul, am văzut azi, dar pe ileana, nu.	0
+8	A1	dintre ele - am văzut azi, dar pe ileana, nu.	0
+9	A1	- am văzut pe omul înalt.	0
+9	A1	am văzut - o femeia de succes.	0
+9	A1	. am văzut pe clientul nemulțumit.	0
+9	A1	. am văzut pe prim - ministrul ales.	0
+9	A1	. am văzut pe consăteanul bunicului meu.	0
+10	A1	. am văzut pe omul.	0
+10	A1	am văzut - o femeia.	0
+10	A1	minute am văzut și clientul.	0
+10	A1	minute am văzut pe prim - ministrul.	0
+10	A1	- am văzut și consăteanul.	0
+11	A1	. omul nu am văzut.	0
+11	A1	. femeia am văzut nimic.	0
+11	A1	. clientul nu am văzut.	0
+11	A1	. prim - ministrul nu am văzut.	0
+11	A1	. consăteanul nu am văzut.	0
+12	A1	am văzut aceast în casă.	0
+12	A1	. am văzut un lac.	2
+12	A1	. am văzut un apartament.	2
+12	A1	. am văzut un pod.	2
+12	A1	. am văzut un bazin.	2
+13	A1	nu am vizitat orașul, dar am văzut -ată casa.	0
+13	A1	nu am vizitat orașul, dar nu am văzut un lac.	0
+13	A1	nu am vizitat orașul, dar nu am văzut un apartament.	0
+13	A1	nu am vizitat orașul, dar nu am văzut un pod.	0
+13	A1	nu am vizitat orașul, dar nu am văzut un bazin.	0
+14	A1	nu am văzut pe nimeni.	2
+14	A1	am văzut pe cineva.	2
+14	A1	am văzut pe altcineva.	2
+14	A1	am așteptat pe cineva.	2
+14	A1	n - am așteptat pe nimeni.	2
+15	A1	am văzut toată casa.	2
+15	A1	am văzut și lacul.	2
+15	A1	am văzut și apartamentul.	2
+15	A1	am văzut și podul.	2
+15	A1	am văzut și bazinul.	2
+16	A1	am văzut - o casă.	0
+16	A1	am văzut pe un lac.	0
+16	A1	am văzut câte un apartament.	2
+16	A1	am văzut pe un pod.	0
+16	A1	am văzut câte un bazin.	2
+17	A2	Am văzut-o pe ea.	2
+17	A2	Am văzut-o pe alice.	2
+17	A2	Am văzut-o pe fată.	2
+17	A2	Am văzut-o pe fata.	0
+17	A2	Am văzut-o pe scenă.	1
+17	A2	Am văzut-o pe asta.	2
+17	A2	Am văzut-o pe maria.	2
+17	A2	Am văzut-o pe femeie.	2
+17	A2	Am văzut-o pe ana.	2
+17	A2	Am văzut-o pe sofia.	2
+18	A2	L-am văzut pe el.	2
+18	A2	L-am văzut pe doctor.	2
+18	A2	L-am văzut pe om.	?
+18	A2	L-am văzut pe acesta.	2
+18	A2	L-am văzut pe băiat.	2
+18	A2	L-am văzut pe mine.	0
+18	A2	L-am văzut pe tata.	2
+18	A2	L-am văzut pe isus.	2
+18	A2	L-am văzut pe filip.	2
+18	A2	L-am văzut pe copil.	2
+19	A2	Pe care l-am văzut.	0
+19	A2	Pe când l-am văzut.	0
+19	A2	Pe 19 l-am văzut.	?
+19	A2	Pe el l-am văzut.	2
+19	A2	Pe 18 l-am văzut.	?
+19	A2	Pe urmă l-am văzut.	1
+19	A2	Pe 9 l-am văzut.	?
+19	A2	Pe 17 l-am văzut.	?
+19	A2	Pe 21 l-am văzut.	?
+19	A2	Pe 13 l-am văzut.	?
+20	A2	Am văzut-o pe ea azi, dar pe Ileana, nu.	2
+20	A2	Am văzut-o pe ileana azi, dar pe Ileana, nu.	0
+20	A2	Am văzut-o pe ioana azi, dar pe Ileana, nu.	2
+20	A2	Am văzut-o pe - azi, dar pe Ileana, nu.	0
+20	A2	Am văzut-o pe fata azi, dar pe Ileana, nu.	2
+20	A2	Am văzut-o pe ana azi, dar pe Ileana, nu.	2
+20	A2	Am văzut-o pe maria azi, dar pe Ileana, nu.	2
+20	A2	Am văzut-o pe mama azi, dar pe Ileana, nu.	2
+20	A2	Am văzut-o pe elena azi, dar pe Ileana, nu.	2
+20	A2	Am văzut-o pe mine azi, dar pe Ileana, nu.	0
+21	A2	Pe ileana am văzut-o azi, dar pe Ileana, nu.	0
+21	A2	Pe care am văzut-o azi, dar pe Ileana, nu.	0
+21	A2	Pe ea am văzut-o azi, dar pe Ileana, nu.	2
+21	A2	Pe asta am văzut-o azi, dar pe Ileana, nu.	2
+21	A2	Pe maria am văzut-o azi, dar pe Ileana, nu.	2
+21	A2	Pe ioana am văzut-o azi, dar pe Ileana, nu.	2
+21	A2	Pe ana am văzut-o azi, dar pe Ileana, nu.	2
+21	A2	Pe elena am văzut-o azi, dar pe Ileana, nu.	2
+21	A2	Pe când am văzut-o azi, dar pe Ileana, nu.	0
+21	A2	Pe irina am văzut-o azi, dar pe Ileana, nu.	2
+22	A2	Am văzut pe cineva.	2
+22	A2	Am văzut pe nimeni.	0
+22	A2	Am văzut pe undeva.	0
+22	A2	Am văzut pe loc.	0
+22	A2	Am văzut pe ecran.	1
+22	A2	Am văzut pe acolo.	0
+22	A2	Am văzut pe mine.	0
+22	A2	Am văzut pe el.	0
+22	A2	Am văzut pe aici.	0
+22	A2	Am văzut pe atunci.	0

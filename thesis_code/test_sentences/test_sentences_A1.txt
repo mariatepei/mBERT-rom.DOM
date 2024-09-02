@@ -1,0 +1,80 @@
+1	Am văzut [MASK] [MASK] Maria.
+1	Am văzut [MASK] [MASK] Ana.
+1	Am văzut [MASK] [MASK] Cezara.
+1	[MASK] am văzut [MASK] Ion.
+1	[MASK] am văzut [MASK] Cezar.
+2	Nu am văzut [MASK] azi [MASK] Maria, dar pe Ileana, da.
+2	Nu am văzut [MASK] azi [MASK] Ana, dar pe Ileana, da.
+2	Nu am văzut [MASK] azi [MASK] Cezara, dar pe Ileana, da.
+2	Nu [MASK] am văzut azi [MASK] Ion, dar pe Ileana, da.
+2	Nu [MASK] am văzut azi [MASK] Cezar, dar pe Ileana, da.
+3	[MASK] Maria am văzut [MASK].
+3	[MASK] Ana am văzut [MASK].
+3	[MASK] Cezara am văzut [MASK].
+3	[MASK] Ion [MASK] am văzut.
+3	[MASK] Cezar [MASK] am văzut.
+4	[MASK] Maria am văzut [MASK] azi, dar pe Ileana, nu.
+4	[MASK] Ana am văzut [MASK] azi, dar pe Ileana, nu.
+4	[MASK] Cezara am văzut [MASK] azi, dar pe Ileana, nu.
+4	[MASK] Ion l-am văzut azi, dar pe Ileana, nu.
+4	[MASK] Cezar l-am văzut azi, dar pe Ileana, nu.
+5	[MASK] am văzut [MASK] el.
+5	[MASK] a văzut [MASK] noi.
+5	[MASK] am văzut [MASK] dumneavoastră.
+5	[MASK] am văzut [MASK] dânsul.
+5	[MASK] am văzut [MASK] ele.
+6	Nu [MASK] am văzut [MASK] el azi, dar pe Ileana, da.
+6	Nu [MASK] a văzut azi [MASK] noi, dar pe Ileana, da.
+6	Nu [MASK] am văzut [MASK] dumneavoastră azi, dar pe Ileana, da.
+6	Nu [MASK] am văzut [MASK] dânsul azi, dar pe Ileana, da.
+6	Nu [MASK] am văzut [MASK] ele azi, dar pe Ileana, da.
+7	[MASK] el [MASK] am văzut.
+7	[MASK] noi [MASK] a văzut.
+7	[MASK] dumneavoastră [MASK] am văzut.
+7	[MASK] dânsul [MASK] am văzut.
+7	[MASK] ele [MASK] am văzut.
+8	[MASK] el [MASK] am văzut azi, dar pe Ileana, nu.
+8	[MASK] noi [MASK] a văzut azi, dar pe Ileana, nu.
+8	[MASK] dumneavoastră [MASK] am văzut azi, dar pe Ileana, nu.
+8	[MASK] dânsul [MASK] am văzut azi, dar pe Ileana, nu.
+8	[MASK] ele [MASK] am văzut azi, dar pe Ileana, nu.
+9	[MASK] am văzut [MASK] omul înalt.
+9	Am văzut [MASK] [MASK] femeia de succes.
+9	[MASK] am văzut [MASK] clientul nemulțumit.
+9	[MASK] am văzut [MASK] prim-ministrul ales.
+9	[MASK] am văzut [MASK] consăteanul bunicului meu.
+10	[MASK] am văzut [MASK] omul.
+10	Am văzut [MASK] [MASK] femeia.
+10	[MASK] am văzut [MASK] clientul.
+10	[MASK] am văzut [MASK] prim-ministrul.
+10	[MASK] am văzut [MASK] consăteanul.
+11	[MASK] omul [MASK] am văzut.
+11	[MASK] femeia am văzut [MASK].
+11	[MASK] clientul [MASK] am văzut.
+11	[MASK] prim-ministrul [MASK] am văzut.
+11	[MASK] consăteanul [MASK] am văzut.
+12	Am văzut [MASK] [MASK] casă.
+12	[MASK] am văzut [MASK] lac.
+12	[MASK] am văzut [MASK] apartament.
+12	[MASK] am văzut [MASK] pod.
+12	[MASK] am văzut [MASK] bazin.
+13	Nu am vizitat orașul, dar am văzut [MASK] [MASK] casa.
+13	Nu am vizitat orașul, dar [MASK] am văzut [MASK] lac.
+13	Nu am vizitat orașul, dar [MASK] am văzut [MASK] apartament.
+13	Nu am vizitat orașul, dar [MASK] am văzut [MASK] pod.
+13	Nu am vizitat orașul, dar [MASK] am văzut [MASK] bazin.
+14	Nu am văzut [MASK] nimeni.
+14	Am văzut [MASK] cineva.
+14	Am văzut [MASK] altcineva.
+14	Am așteptat [MASK] cineva.
+14	N-am așteptat [MASK] nimeni.
+15	Am văzut [MASK] casa.
+15	Am văzut [MASK] lacul.
+15	Am văzut [MASK] apartamentul.
+15	Am văzut [MASK] podul.
+15	Am văzut [MASK] bazinul.
+16	Am văzut [MASK] o casă.
+16	Am văzut [MASK] un lac.
+16	Am văzut [MASK] un apartament.
+16	Am văzut [MASK] un pod.
+16	Am văzut [MASK] un bazin.

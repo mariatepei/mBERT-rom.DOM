@@ -1,0 +1,6 @@
+17	Am văzut-o pe [MASK].
+18	L-am văzut pe [MASK].
+19	Pe [MASK] l-am văzut.
+20	Am văzut-o pe [MASK] azi, dar pe Ileana, nu.
+21	Pe [MASK] am văzut-o azi, dar pe Ileana, nu.
+22	Am văzut pe [MASK].
