@@ -16,6 +16,14 @@ their training data and this bias may be amplified if benchmarks are also Englis
 - The _word_frequencies_ text file contains the word frequency counts for the words used in object position when manually generating the test sentences.
 - The _results_ folder contains the results obtained and the manual annotations.
 
+## Additional resources
+For transparency and replication reasons, the following additional resources used for the experiments described in this paper are available:
+- The test sentences obtained from the templates, as well as the resulting predictions from each language model version are included in this repository.
+- The three pretrained models tested can be found on HuggingFace:
+    a. Google BERT models: \href{https://huggingface.co/google-bert}{here}.
+    b. Romanian BERT: \href{https://huggingface.co/dumitrescustefan}{here}.
+    c. RoBERT: \href{https://huggingface.co/readerbench}{here}.
+
 ## Installation and requirements
 
 The notebook containing the code is self-contained and includes all neccessary pips and installs.
